@@ -1,0 +1,1 @@
+java -Djava.library.path=lib/ -cp bin/:lib/* birdoprey.exterminator.ExterminatorApp 2> error.txt
